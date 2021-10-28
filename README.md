@@ -30,4 +30,4 @@ Once the model has been trained we can make predictions and obtain labels for ea
 
 ## How to use it...
 
-Just clone the repo and run the notebook
+Just clone the repo, install dependencies on requirements.txt and run the notebook
