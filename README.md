@@ -27,3 +27,7 @@ With this model we've obtained excelent results...
 Once the model has been trained we can make predictions and obtain labels for each face in the picture
 
 ![image3](./readme-images/image3.png)
+
+## How to use it...
+
+Just clone the repo and run the notebook
